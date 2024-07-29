@@ -1,0 +1,39 @@
+Buh Emotes Pack v 1.2
+=================================================
+Added the following 7tv emotes:
+
+- chipichipi
+- Corpa
+- docL
+- OOOO
+- WAYTOOBUH
+- WHAT
+
+Wide animated emotes are now enabled.
+
+Known issue: Currently incompatible with Twitch Emotes V2. Fix in an upcoming version.
+
+Buh Emotes Pack v 1.1
+=================================================
+Adjusted some emote sizes that caused bugs.
+
+Buh Emotes Pack v 1.0
+=================================================
+Added the following 7TV emotes:
+
+- buh
+- buhFriend
+- Buhh
+- buhL
+- Buhsiness
+- cuteBuhh
+- docNotL
+- Gigachad (animated)
+- hesRight
+- huh
+- MUGA
+- NOOO
+- nymnVibe
+- Ogre
+
+Some old emoted have been adjusted.

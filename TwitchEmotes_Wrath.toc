@@ -1,0 +1,17 @@
+## Interface: 30405
+## Title: |TInterface\Addons\BuhEmotesPack\Emotes\Pepes\EZ:0|tTwitch Emotes|TInterface\Addons\BuhEmotesPack\Emotes\Pepes\EZ:0|t
+## IconTexture: Interface\AddOns\BuhEmotesPack\Emotes\1337.tga
+## Author: Ren - Illidan (US) & Jons - Golemagg (EU)
+## Notes: Adds popular Twitch & Discord emotes to your chat. Developed by Ren - Illidan (US) & Jons - Golemagg (EU)
+## Version: v2
+## SavedVariables: Emoticons_Settings, TwitchEmoteStatistics
+## OptionalDeps: LibStub, LibUIDropDownMenu
+
+Libs\load_libs.xml
+Emotes.lua
+DropdownItems.lua
+TwitchEmotesAnimator.lua
+BuhEmotesPack.lua
+TwitchEmoteStatistics.lua
+UI\BuhEmotesPack.xml
+UI\TwitchEmoteStats.xml
