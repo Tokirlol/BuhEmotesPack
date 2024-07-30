@@ -1,4 +1,4 @@
-## Interface: 100002
+## Interface: 11503
 ## Title: |TInterface\Addons\BuhEmotesPack\Emotes\Buhs\Buhh:0|tBuh Emote pack|TInterface\Addons\BuhEmotesPack\Emotes\Buhs\Buhh:0|t
 ## IconTexture: Interface\AddOns\BuhEmotesPack\Emotes\1337.tga
 ## Author: Ren - Illidan (US) & Jons - MirageRaceway (EU)
