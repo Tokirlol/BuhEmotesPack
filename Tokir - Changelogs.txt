@@ -1,0 +1,163 @@
+Buh Emotes Pack v 1.3.4
+=================================================
+New changelog file after move code to a new git repo
+
+Buh Emotes Pack v 1.3.3.1
+=================================================
+Added the following 7tv emotes:
+ta7
+
+Buh Emotes Pack v 1.3.3
+=================================================
+Added the following 7tv emotes:
+-AlienDisapointedInYou
+-AlienL
+-angriER
+-FRICK
+-LULG
+-peepoTalkbutpeepoisnottalking
+-Pointless
+-Sadeg
+-Smile
+-ta
+-tuh
+-hesRetarded
+-Aplonk
+-Dreiecksmann
+-Erm
+-forsenExplainingHow
+-forsenHoppedIn
+-hump
+-OHMYGOD
+
+
+
+
+Buh Emotes Pack v 1.3.2
+=================================================
+Removed most of the unused emotes
+
+Added the following 7tv emotes:
+-DOCING
+-DRAMA
+-4House
+-AlienUnpleased
+-Dutch
+-EULKEKUNJEF
+-forsenOhiomaxcape
+-KUKLE
+-LEUL
+-NIME
+-ULLE
+-zazabert
+-forsenLevel
+-HowAboutYouShutYourMouthUp
+-IHATEAI
+-Alienapprove
+-MODS
+-OMEGALULiguess
+-Pepepainsiguess
+-Sneak
+
+
+Buh Emotes Pack v 1.3.1
+=================================================
+Updates the following emotes:
+-docSpin now spins at 150 fps
+
+Added the following 7tv emotes:
+-hiii
+-doctorWTF
+-Despair
+-angrE
+-CAUGHT
+-happyHobo
+-FeelsDonkMan
+-forsenInsane
+-Jackass
+-Rime
+-RaidToday
+-docRant
+-MAXWIN
+-NOWWHAT
+-plink
+-Scared
+-confused
+-floppaHey
+-poroSad
+-poroBuff
+-sadE
+-terrypls
+-AINTNOWAY
+
+
+
+
+Buh Emotes Pack v 1.3
+=================================================
+Added the following 7tv emotes:
+
+-forsen
+-Ted
+-forsenMaxLevel
+-veryCat
+-terryBased
+-docBozo
+-Tomfoolery
+-AmongE
+-buhNOW
+-Mails
+-billyApprove
+-forsenlaughingatyou
+-hesBB
+-eliselis
+-WeebsOut
+-glorp
+-glorpLove
+-glebeGlebe
+-NOIDONTTHINKSO
+-billySmoke
+-docSpin
+
+Some Emotes might have to be adjusted in size.
+
+
+Buh Emotes Pack v 1.2
+=================================================
+Added the following 7tv emotes:
+
+- chipichipi
+- Corpa
+- docL
+- OOOO
+- WAYTOOBUH
+- WHAT
+
+Wide animated emotes are now enabled.
+
+Known issue: Currently incompatible with Twitch Emotes V2. Fix in an upcoming version.
+
+Buh Emotes Pack v 1.1
+=================================================
+Adjusted some emote sizes that caused bugs.
+
+Buh Emotes Pack v 1.0
+=================================================
+Added the following 7TV emotes:
+
+- buh
+- buhFriend
+- Buhh
+- buhL
+- Buhsiness
+- cuteBuhh
+- docNotL
+- Gigachad (animated)
+- hesRight
+- huh
+- MUGA
+- NOOO
+- nymnVibe
+- Ogre
+
+Some old emoted have been adjusted.
